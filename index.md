@@ -101,7 +101,7 @@ fetch logs
 
 The goal is to breakdown the provided entry into individual fields, the result should look something like this:
 
-![Parse result](../../assets/images/parseResult.png)
+![Parse result](img/parseResult.png)
 
 ### Step 2 - End result
 
